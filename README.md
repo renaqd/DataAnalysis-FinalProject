@@ -1,5 +1,11 @@
 # DataAnalysis-FinalProject
 
+
+## Introduction
+Learning models
+
+
+## Intructions and Data
 install: scikit-learn
 
 import: pandas, matplotlib, numpy, seaborn
@@ -33,3 +39,10 @@ tuples (elements): estimator and model contructor
 create pipeline object
 
 model evaluation and refinement
+
+## Terms and Conditions
+This project is an IBM Skills Network Lab
+
+
+## Citation
+IBM Skills Network Course
