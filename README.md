@@ -8,7 +8,7 @@ Use data pre-processing techniques (data wrangling/ data munging/ imputation) an
 ## Libraries:
 1. scikit-learn
       * modules: pipeline, preprocessing, linear_model, SrandardScaler, PolynomialFeatures, LinearRegression, .model_selection
-      * method from modules: .fit(), .score(), .fit_transform(),
+      * method from modules: .fit(), .score(), .fit_transform()
       * function from .model_selection: train_test_split
 3. pandas
       * methods: .corr(), .describe(), .drop(), .value_counts, .sort_values()
